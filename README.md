@@ -14,3 +14,10 @@ In this link, you can refer to the GUI design for the smart home.
 To use J-link firmware to debug,refer to this link
 
 https://community.nxp.com/t5/i-MX-RT-Knowledge-Base/Using-J-Link-with-MIMXRT1060-EVKB/ta-p/1452717
+
+
+#Technical difficulty that still not solved:
+-Connects NXP MIMXRT1060EVKB via Ethernet to PC for internet access for the subscription of sensor data from ESP32 module
+-ESP32 module with BME688 sensor how to publish sensor data using RT-Thread Studio via MQTT
+-Connects the metrics in real time to the GUI in NXP GUI Guider
+-Debugging with using onboard debugging probe needs LP4322 DFS Jumper, need to use external J-Link debug probe.
