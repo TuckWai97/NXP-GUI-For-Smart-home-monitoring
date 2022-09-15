@@ -27,3 +27,4 @@ https://www.nxp.com/docs/en/application-note/AN13206.pdf
 
 GUI that created and modified from template:
 ## Main screen
+![Main screen](images/front screen.png)
