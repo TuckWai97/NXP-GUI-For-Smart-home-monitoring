@@ -23,3 +23,7 @@ https://www.nxp.com/docs/en/application-note/AN13206.pdf
 - ESP32 module with BME688 sensor how to publish sensor data using RT-Thread Studio via MQTT
 - Connects the metrics in real time to the GUI in NXP GUI Guider
 - Debugging with using onboard debugging probe needs LP4322 DFS Jumper, need to use external J-Link debug probe as it will be more easier for beginner like me.
+
+
+GUI that created and modified from template:
+## Main screen
