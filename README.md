@@ -25,6 +25,6 @@ https://www.nxp.com/docs/en/application-note/AN13206.pdf
 - Debugging with using onboard debugging probe needs LP4322 DFS Jumper, need to use external J-Link debug probe as it will be more easier for beginner like me.
 
 
-GUI that created and modified from template:
+GUI that created and modified from template in NXP GUI Guider:
 ## Main screen
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/front%20screen.png)
