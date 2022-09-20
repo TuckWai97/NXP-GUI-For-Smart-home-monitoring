@@ -33,14 +33,14 @@ GUI that created and modified from template in NXP GUI Guider:
 ## Temperature page
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/Temperature%20page.png)
 
-# Humidity page
+## Humidity page
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/Humidity%20page.png)
 
-# Fan & Light chosing page
+## Fan & Light chosing page
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/Fan%20or%20light.png)
 
-# Fan condition page
+## Fan condition page
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/Fan.png)
 
-# Light condition page
+## Light condition page
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/Light.png)
