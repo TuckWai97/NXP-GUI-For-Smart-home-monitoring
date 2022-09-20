@@ -28,9 +28,9 @@ https://www.nxp.com/docs/en/application-note/AN13206.pdf
 
 GUI that created and modified from template in NXP GUI Guider:
 ## Main screen
-![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/front%20screen.png)</br>
+![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/front%20screen.png)
 
-#Temperature page
+## Temperature page
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/Temperature%20page.png)
 
 # Humidity page
