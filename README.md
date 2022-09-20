@@ -24,7 +24,7 @@ https://www.nxp.com/docs/en/application-note/AN13206.pdf
 - Connects the metrics in real time to the GUI in NXP GUI Guider
 - Facing issue in build up the demo to display in the display of NXP
 - Not sure how to debug with using onboard debugging probe as it needs LP4322 DFS Jumper, therefore need to use external J-Link debug probe (will need a JTAG SWD adapter).
-
+-Not yet finished the GUI for all the functions
 
 GUI that created and modified from template in NXP GUI Guider:
 ## Main screen
