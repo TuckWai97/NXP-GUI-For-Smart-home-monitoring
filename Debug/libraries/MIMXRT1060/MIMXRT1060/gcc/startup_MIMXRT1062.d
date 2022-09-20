@@ -1,2 +1,0 @@
-libraries/MIMXRT1060/MIMXRT1060/gcc/startup_MIMXRT1062.o: \
- ../libraries/MIMXRT1060/MIMXRT1060/gcc/startup_MIMXRT1062.S
