@@ -10,7 +10,10 @@ rt-thread/components/finsh/shell.o: ../rt-thread/components/finsh/shell.c \
  C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\finsh/finsh.h \
  ../rt-thread/components/finsh/shell.h \
  ../rt-thread/components/finsh/finsh.h \
- ../rt-thread/components/finsh/msh.h
+ ../rt-thread/components/finsh/msh.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/unistd.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/unistd.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\newlib/fcntl.h
 
 C:\RT-ThreadStudio\workspace2\GUI_contest\rtconfig_preinc.h:
 
@@ -35,3 +38,9 @@ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\finsh/finsh.h:
 ../rt-thread/components/finsh/finsh.h:
 
 ../rt-thread/components/finsh/msh.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/unistd.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/unistd.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\newlib/fcntl.h:

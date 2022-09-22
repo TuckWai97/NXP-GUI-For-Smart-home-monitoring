@@ -16,7 +16,7 @@
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerConnectionAddress" value=""/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerDeviceName" value="MIMXRT1062DVL6B"/>
 <booleanAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerEnableSemihosting" value="false"/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerExecutable" value="C:\RT-ThreadStudio\repo\Extract\Debugger_Support_Packages\RealThread\PyOCD\0.1.3\pyocd.exe"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerExecutable" value="C:\Program Files\SEGGER\JLink\JLinkGDBServerCL.exe"/>
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerFlashMode" value="0"/>
 <intAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerGdbPortNumber" value="3333"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.pyocd.gdbServerOther" value=""/>

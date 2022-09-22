@@ -23,7 +23,18 @@ rt-thread/components/drivers/ipc/pipe.o: \
  C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/drivers/i2c_dev.h \
  C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/drivers/i2c-bit-ops.h \
  C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/drivers/pin.h \
- C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/drivers/cputime.h
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/drivers/cputime.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/unistd.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/unistd.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\newlib/fcntl.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\posix\io\poll/poll.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/ioctl.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\dfs\include/dfs_file.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\dfs\include/dfs.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/dirent.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/statfs.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/time.h \
+ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\dfs\include/dfs_fs.h
 
 C:\RT-ThreadStudio\workspace2\GUI_contest\rtconfig_preinc.h:
 
@@ -72,3 +83,25 @@ C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/d
 C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/drivers/pin.h:
 
 C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\drivers\include/drivers/cputime.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/unistd.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/unistd.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\newlib/fcntl.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\posix\io\poll/poll.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/ioctl.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\dfs\include/dfs_file.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\dfs\include/dfs.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/dirent.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/statfs.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\libc\compilers\common\include/sys/time.h:
+
+C:\RT-ThreadStudio\workspace2\GUI_contest\rt-thread\components\dfs\include/dfs_fs.h:

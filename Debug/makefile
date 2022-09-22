@@ -12,6 +12,11 @@ RM := rm -rf
 -include rt-thread/src/subdir.mk
 -include rt-thread/libcpu/arm/cortex-m7/subdir.mk
 -include rt-thread/libcpu/arm/common/subdir.mk
+-include rt-thread/components/net/sal/src/subdir.mk
+-include rt-thread/components/net/sal/socket/subdir.mk
+-include rt-thread/components/net/sal/dfs_net/subdir.mk
+-include rt-thread/components/net/netdev/src/subdir.mk
+-include rt-thread/components/libc/posix/io/poll/subdir.mk
 -include rt-thread/components/libc/compilers/newlib/subdir.mk
 -include rt-thread/components/libc/compilers/common/subdir.mk
 -include rt-thread/components/finsh/subdir.mk
@@ -20,12 +25,11 @@ RM := rm -rf
 -include rt-thread/components/drivers/ipc/subdir.mk
 -include rt-thread/components/drivers/i2c/subdir.mk
 -include rt-thread/components/drivers/cputime/subdir.mk
--include packages/lv_music_demo-v0.2.0/assets/subdir.mk
--include packages/lv_music_demo-v0.2.0/subdir.mk
+-include rt-thread/components/dfs/src/subdir.mk
+-include rt-thread/components/dfs/filesystems/devfs/subdir.mk
 -include packages/gui_guider_demo-latest/generated/guider_fonts/subdir.mk
 -include packages/gui_guider_demo-latest/generated/subdir.mk
 -include packages/gui_guider_demo-latest/custom/subdir.mk
--include packages/gui_guider_demo-latest/subdir.mk
 -include packages/LVGL-v8.2.0/src/widgets/subdir.mk
 -include packages/LVGL-v8.2.0/src/misc/subdir.mk
 -include packages/LVGL-v8.2.0/src/hal/subdir.mk

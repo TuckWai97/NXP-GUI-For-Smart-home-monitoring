@@ -80,9 +80,8 @@ packages/LVGL-v8.2.0/src/widgets \
 packages/gui_guider_demo-latest/custom \
 packages/gui_guider_demo-latest/generated \
 packages/gui_guider_demo-latest/generated/guider_fonts \
-packages/gui_guider_demo-latest \
-packages/lv_music_demo-v0.2.0/assets \
-packages/lv_music_demo-v0.2.0 \
+rt-thread/components/dfs/filesystems/devfs \
+rt-thread/components/dfs/src \
 rt-thread/components/drivers/cputime \
 rt-thread/components/drivers/i2c \
 rt-thread/components/drivers/ipc \
@@ -91,6 +90,11 @@ rt-thread/components/drivers/serial \
 rt-thread/components/finsh \
 rt-thread/components/libc/compilers/common \
 rt-thread/components/libc/compilers/newlib \
+rt-thread/components/libc/posix/io/poll \
+rt-thread/components/net/netdev/src \
+rt-thread/components/net/sal/dfs_net \
+rt-thread/components/net/sal/socket \
+rt-thread/components/net/sal/src \
 rt-thread/libcpu/arm/common \
 rt-thread/libcpu/arm/cortex-m7 \
 rt-thread/src \
