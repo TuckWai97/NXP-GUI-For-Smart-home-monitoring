@@ -44,3 +44,6 @@ GUI that created and modified from template in NXP GUI Guider:
 
 ## Light condition page
 ![alt text](https://github.com/TuckWai97/NXP-GUI-For-Smart-home-monitoring/blob/main/images/Light.png)
+
+## Presentation for the Project
+https://youtu.be/FEFr5SK4ga0
